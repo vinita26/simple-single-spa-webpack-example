@@ -6,16 +6,6 @@
     "watch": "webpack-dev-server --open",
     "build": "webpack --config webpack.config.js -p"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joeldenning/simple-single-spa-webpack-example.git"
-  },
-  "author": "Joel Denning",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/joeldenning/simple-single-spa-webpack-example/issues"
-  },
-  "homepage": "https://github.com/joeldenning/simple-single-spa-webpack-example#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
